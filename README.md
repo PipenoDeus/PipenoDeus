@@ -2,5 +2,12 @@
   <img src="./Assets/banner.gif" width="100%"/>
 </p>
 
-# Hola  Soy Luis Felipe
+Art by @Kaolin-Comet
+
 Full Stack Developer
+
+⚡ I build web applications with React, Node.js and PostgreSQL
+🛠️ Interested in software architecture and scalable systems
+🎮 Slowly exploring game development and interactive experiences
+
+Always building, always learning.
