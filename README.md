@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="./Assets/banner.gif" width="100%"/>
+  <img src="./assets/banner.gif" width="100%"/>
 </p>
 
+<p align="center">
 Art by @Kaolin-Comet
+</p>
 
-Full Stack Developer
+# 👋 About Me
 
-⚡ I build web applications with React, Node.js and PostgreSQL
+**Full Stack Developer**
 
-🛠️ Interested in software architecture and scalable systems
+* ⚡ I build web applications with React, Node.js and PostgreSQL
+* 🛠️ Interested in software architecture and scalable systems
+* 🎮 Slowly exploring game development and interactive experiences
 
-🎮 Slowly exploring game development and interactive experiences
-
-Always building, always learning.
+**Always building, always learning.**
