@@ -14,4 +14,12 @@ Art by @Kaolin-Comet
 * 🛠️ Interested in software architecture and scalable systems
 * 🎮 Slowly exploring game development and interactive experiences
 
-**Always building, always learning.**
+# 🛠️ Tech Stack
+
+
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,express,postgres,supabase,docker,git,github,unity" />
+
+</div>  
