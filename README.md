@@ -6,15 +6,23 @@
 Art by @Kaolin-Comet
 </p>
 
-# 👋 About Me
+
+# Sobre mí
+Desarrollador Full Stack
+
+* Desarrollo aplicaciones web con React, Node.js y PostgreSQL
+* Interesado en arquitectura de software y sistemas escalables
+* Explorando poco a poco el desarrollo de videojuegos.
+
+#  About Me
 
 **Full Stack Developer**
 
-* ⚡ I build web applications with React, Node.js and PostgreSQL
-* 🛠️ Interested in software architecture and scalable systems
-* 🎮 Slowly exploring game development and interactive experiences
+* I build web applications with React, Node.js and PostgreSQL
+* Interested in software architecture and scalable systems
+* Slowly exploring game development.
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 
 
